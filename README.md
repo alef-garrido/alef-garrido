@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alef. Thank you for visiting!</h1>
-<h3 align="center">I'm a curious and passionate creative researcher.</h3>
+<h3 align="center">Front-end Developer</h3>
 
 - 🌱 I’m currently learning **Js, and about block-chain and NFT's**
 
