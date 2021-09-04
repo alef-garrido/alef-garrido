@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alef. Thank you for visiting!</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Front-end Developer Student</h3>
 
-- 🌱 I’m currently learning **Js, and about block-chain and NFT's**
+- 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alef-garrido](https://github.com/alef-garrido)
-
-- 💬 Ask me about **Javascript, and books (programming or fiction)**
+- 👨‍💻 All of my projects are available at [https://github.com/alef-garrido](https://github.com/alef-garrido).
 
 - 📫 How to reach me **oa.g11@icloud.com**
 
-- ⚡ Fun fact **I love writing creative/fiction**
+- ⚡ Fun fact **I love creative/fiction writing**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
