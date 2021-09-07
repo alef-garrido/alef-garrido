@@ -11,9 +11,8 @@
 
 - 👨‍🚀 Looking for creative and ambitious projects to jump in!
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+-  👨‍💻 Available to hire :)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
