@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alef. Thank you for visiting!</h1>
 <h3 align="center"> Full-Stack Front-end Developer Student</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 -  👨‍💻 Available to hire :) 
 
--  👨‍🚀 Looking for creative and ambitious projects to jump in!  
+-  👨‍🚀 Looking for creative projects to jump in!  
 
 - 📫 How to reach me **oa.g11@icloud.com**
 
-- ⚡ Fun fact **I love creative/fiction writing** 
+- ⚡ Fun fact **I love flash fiction writing** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/alef-garrido](https://github.com/alef-garrido).
 
