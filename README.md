@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alef. Thank you for visiting!</h1>
 <h3 align="center"> Full-Stack Front-end Developer Student</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 -  👨‍💻 Available to hire :) 
 
