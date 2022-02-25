@@ -7,7 +7,7 @@
 
 -  👨‍🚀 Looking for creative projects to jump in!  
 
-- 📫 How to reach me **oa.g11@icloud.com**
+- 📫 How to reach me **info@alef-lemat.tech**
 
 - ⚡ Fun fact **I love flash fiction writing** 
 
