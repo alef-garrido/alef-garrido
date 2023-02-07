@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alef. Thank you for visiting!</h1>
 <h3 align="center"> Full-Stack Front-end Developer Student</h3>
 
-- 🌱 I’m currently learning **Ruby**
-
 -  👨‍💻 Available to hire :) 
 
 -  👨‍🚀 Looking for creative projects to jump in!  
@@ -13,8 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/alefgarrido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alefgarrido" height="30" width="40" /></a>
-<a href="https://twitter.com/alef_garrido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alef_garrido" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aléf garrida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aléf garrida" height="30" width="40" /></a>
 </p>
 
