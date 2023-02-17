@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar. Thank you for visiting!</h1>
 <h3 align="center"> Full-Stack Front-end Developer Student</h3>
 
--  👨‍💻 Available to hire :)  (Portfolio) [https://astounding-stardust-e45535.netlify.app]
+-  👨‍💻 Available to hire :) 
 
 -  👨‍🚀 Looking for creative projects to jump in!  
 
