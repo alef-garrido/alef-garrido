@@ -3,7 +3,7 @@
 
 -  👨‍🚀 Looking for creative projects to jump in!  
 
-- 📫 How to reach me **[https://alefcreative.website](https://alefcreative.website)**
+- 📫 How to reach me **[https://www.alef-lemat.tech](https://www.alef-lemat.tech/)**
 
 - ⚡ Fun fact **I love flash fiction writing** 
 
